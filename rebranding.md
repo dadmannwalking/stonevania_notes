@@ -1,5 +1,5 @@
 # 🧭 Core Identity
-> “A semi-RP, content-driven SMP focused on collaborative engagement through optional server-wide story arcs that bring players together while still maintaining individual progression at your own pace.”
+> **Identity Statement.** We are a semi-RP, content-driven SMP focused on collaborative engagement through optional server-wide story arcs that bring players together while still maintaining individual game progression at your own pace.
 # 👥 Membership Expectations
 > **Activity and Content Expectations.** We are creating something that both creators and viewers can rely on. Regular activity and content is expected on and from this SMP from anyone and everyone involved. What "regular activity" looks like may look differently for everyone, but some typical guidelines include **1-2 sessions per week** and **1 video per month**. 
 #### Open Questions
@@ -13,7 +13,7 @@
 - resentment toward inactive members
 - “why am I the only one doing stuff?” energy
 # ⚖️ Authority & Decision-Making
-> We are all working together to make this SMP a safe and cohesive space for all creators and viewers involved. As the creators, we are all responsible for decision-making for the SMP and major decisions (i.e., when to update or when to advance a server-wide story arc) are usually voted on during a meeting or via poll after said meeting. 
+> **We All Have Authority.** We are all working together to make this SMP a safe and cohesive space for all creators and viewers involved. As the creators, we are all responsible for decision-making for the SMP and major decisions (i.e., when to update or when to advance a server-wide story arc) are usually voted on during a meeting or via poll after said meeting. If a decision needs to be elevated beyond that, it should reside with the admins.
 # 📜 Rules of Engagement
 > "We  are adults until we prove we aren't." 
 > —dadmannwalking
